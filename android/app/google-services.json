@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "350862324854",
+    "project_id": "my-todolist-flutterfire",
+    "storage_bucket": "my-todolist-flutterfire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350862324854:android:6192b882d793dd7debdb57",
+        "android_client_info": {
+          "package_name": "com.example.flutterfire_first_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWg5TRzfkpHPiZeXIs8CHZs-j7qX8go10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
